@@ -52,4 +52,10 @@ span{
 a{
     float: right;
     background-color: grey;
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    font-family:Arial, Helvetica, sans-serif;
+    padding: 5px;
+    border-radius: 5px;
+    
 }
